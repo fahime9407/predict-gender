@@ -8,24 +8,6 @@ Welcome to the **Gender Predictor** project! This application predicts gender ba
 
 The **Gender Predictor** features a user-friendly graphical interface built with **Tkinter**. Users can easily input their height, weight, and shoe size, and with a simple click of the "Predict" button, they will receive a gender prediction.
 
-## Installation ⚙️
-
-To get started with the project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/username/repo-name.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd repo-name
-   ```
-3. **Install the required libraries:**
-   Make sure you have the necessary libraries installed. You can do this using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage 🚀
 
 To run the application, execute the following command:
