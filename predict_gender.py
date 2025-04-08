@@ -3,11 +3,9 @@ from sklearn import tree
 from tkinter import *
 from tkinter import ttk
 
-height, weight, shoe_size = 0, 0, 0
-
 def predictor():
     try :
-        # This code collects user input for height, weight, and shoe size
+        # This code collects user input includes height, weight, and shoe size
         height, weight, shoe_size = float(e1.get()), float(e2.get()), float(e3.get())
         # This code uses a classifier (clf) to predict the gender based on the provided information
         answer = clf.predict([[height, weight, shoe_size]])
@@ -56,6 +54,6 @@ button1.place(x= 15, y= 110)
 lable_result = Label(root, text= "result .....", bg= "lightgray")
 lable_result.place(x= 0, y= 145)
 # close button
-button2 = Button(root, text= "Done", command= root.destroy, width= 30, activebackground= "black", activeforeground= "white").place(x= 15, y= 160)
+button2 = Button(root, text= "Done", command= root.destroy, width= 30, activebackground= "black", activeforeground= "white").place(x= 15, y= 170)
 
 root.mainloop()
