@@ -12,7 +12,7 @@ The **Gender Predictor** features a user-friendly graphical interface built with
 
 To run the application, execute the following command:
 ```bash
-python main.py
+python predict_gender.py
 ```
 Once the application is running, enter your height, weight, and shoe size in the respective fields. Click the **"Predict"** button to see your predicted gender!
 
