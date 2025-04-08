@@ -81,5 +81,3 @@ For questions or feedback, please reach out to [fahime] at [fahime.emlaei@gmail.
 - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) for data handling.
 
 ---
-
-Feel free to replace placeholders like `your_script_name.py`, `[Your Name]`, and `[your.email@example.com]` with your actual script name and contact information. Let me know if you need any more adjustments!
