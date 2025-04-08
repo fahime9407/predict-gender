@@ -4,14 +4,6 @@
 
 Welcome to the **Gender Predictor** project! This application predicts gender based on physical attributes such as height, weight, and shoe size using a Decision Tree Classifier.
 
-## Table of Contents 📚
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction 🤖
 
 The **Gender Predictor** features a user-friendly graphical interface built with **Tkinter**. Users can easily input their height, weight, and shoe size, and with a simple click of the "Predict" button, they will receive a gender prediction.
